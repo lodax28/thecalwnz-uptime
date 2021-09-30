@@ -1,0 +1,33 @@
+{
+  "name": "whybolu",
+  "version": "1.0.0",
+  "description": "whybolu altyapı",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "hastebin-gen": "^2.0.5",
+    "http": "0.0.1-security",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.31",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.1.0",
+    "request": "^2.88.2",
+    "rss-parser": "^3.9.0",
+    "simple-youtube-api": "^5.2.1",
+    "wikijs": "^6.0.1",
+    "ytdl-core": "^3.3.0",
+    "ytdl-core-discord": "^1.2.3"
+  }
+}
