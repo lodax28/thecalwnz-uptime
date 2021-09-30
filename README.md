@@ -1,1 +1,3 @@
-# thecalwnz-uptime
+al kullan paylaş krdş
+
+# çalıntıdır
