@@ -1,0 +1,1 @@
+al kullan paylaş abicim
